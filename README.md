@@ -9,7 +9,7 @@ Interação Humano-computador
 
 ## Teorica
 
-- Vitor Santos 
+- Vitor Santos (107186)
 - [Gabriel Teixeira](https://github.com/GabrielTeixei)
 
 # Getting Started with Create React App
