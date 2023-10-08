@@ -2,14 +2,15 @@
 Interação Humano-computador 
 
 ## Pratica 
-- Joana Gomes
-- Lia Cardoso
-- Gabriel Teixeira
+  
+- [Joana Gomes](https://github.com/joanaagomesua)
+- [Lia Cardoso](https://github.com/liacr301)
+- [Gabriel Teixeira](https://github.com/GabrielTeixei)
 
 ## Teorica
 
 - Vitor Santos 
-- Gabriel Teixeira
+- [Gabriel Teixeira](https://github.com/GabrielTeixei)
 
 # Getting Started with Create React App
 
